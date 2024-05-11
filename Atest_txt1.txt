@@ -1,0 +1,14 @@
++----------+-------------+--------------+----------------+-----------------+-------------+
+|          |  columna 1  |  columna 2   |   columna 3    |    columna 4    |  columna 5  |
++----------+-------------+--------------+----------------+-----------------+-------------+
+| filas 1  |    hola     |    mundo     |    ejemplo     |     código      |   python    |
+| filas 2  | desarrollo  |     web      |   tecnología   |   innovación    | aprendizaje |
+| filas 3  |  educación  |  escritura   |  inteligencia  |   artificial    |   modelo    |
+| filas 4  | computadora | programación |    variable    |     función     | condicional |
+| filas 5  |  iteración  |    lista     |  diccionario   |     objeto      |    clase    |
+| filas 6  |   método    |   herencia   |  polimorfismo  | encapsulamiento | abstracción |
+| filas 7  |  importar   |   librería   |   framework    |   plataforma    |  servidor   |
+| filas 8  |   cliente   |   usuario    |  experiencia   |     diseño      |  interfaz   |
+| filas 9  |   usuario   |    prueba    |    calidad     |   rendimiento   |  seguridad  |
+| filas 10 |   acceso    |    datos     | almacenamiento |      nube       |  servicio   |
++----------+-------------+--------------+----------------+-----------------+-------------+
